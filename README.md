@@ -9,6 +9,7 @@ We evaluated the performance of different CNN architectures, including ConvNeXtX
 
 ## Results
 Our experiments showed that ConvNeXtXLarge with BIRCH achieved the highest accuracy of 98.3%, making it the most accurate method. However, MobileNetV2 with MiniBatchKMeans was the fastest, and MiniBatchKMeans was the most efficient in terms of RAM consumption. We also found that size of the image did not significantly affect performance, but the number of images in the dataset did.
+
 | Model          | Accuracy |
 |----------------|----------|
 | M.NetV3+KM     | 70.23    |
@@ -31,8 +32,10 @@ Our experiments showed that ConvNeXtXLarge with BIRCH achieved the highest accur
 | Resnet50+MKM   | 76.32    |
 | E.NetV2s+MKM   | 85.2     |
 | Co.tXL+MKM     | 87.21    |
+
+
 In addition to these results, the project was also successful in clustering 31,000 images from the Tibet museum dataset using the ConvNeXtXLarge CNN architecture with the BIRCH clustering algorithm. 
-This model achieved an accuracy of  98.3%% on the STL10 dataset, which beats the state-of-the-art model described in the paper with code for the STL10 dataset.
+**This model achieved an accuracy of  98.3%% on the STL10 dataset, which beats the state-of-the-art model described in the paper with code for the STL10 dataset.**
 https://paperswithcode.com/sota/image-clustering-on-stl-10
 
 ## Conclusion
