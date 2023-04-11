@@ -44,7 +44,7 @@ https://paperswithcode.com/sota/image-clustering-on-stl-10
 <img width="400" alt="Screenshot 2023-04-11 at 8 24 33 PM" src="https://user-images.githubusercontent.com/72848416/231203267-1e28e30a-d374-4c3c-88c7-535512111b96.jpeg">
 
 ## Conclusion
-Overall, our project demonstrated that combining CNN architectures with clustering algorithms can lead to efficient and accurate image clustering. Further exploration and optimization of these methods could have practical applications in image recommendation based on image feature and image dataset cleaning 
+Overall, our project demonstrated that combining CNN architectures with clustering algorithms can lead to efficient and accurate image clustering. Further exploration and optimization of these methods could have practical applications in image recommendation based on visual feature and image dataset cleaning 
 
 ## Usage
 To use our implementation, clone the repository and run the code in the 'ECLU.ipynb' Jupyter notebook. Make sure to have the necessary dependencies installed, including TensorFlow, scikit-learn, and matplotlib.
