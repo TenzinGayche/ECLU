@@ -1,5 +1,5 @@
 # ECLU
-# Efficient Image Clustering Using CNN and Clustering Algorithm
+# Efficient Image Clustering Using CNN and Clustering 
 
 ## Introduction
 In this project, we explore different CNN architectures and clustering algorithms to develop an efficient method for image clustering. The goal is to create a clustering method that is both accurate and efficient, particularly when dealing with large datasets.
