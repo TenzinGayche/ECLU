@@ -35,11 +35,13 @@ Our experiments showed that ConvNeXtXLarge with BIRCH achieved the highest accur
 
 <img width="500" alt="Screenshot 2023-04-11 at 8 24 33 PM" src="https://user-images.githubusercontent.com/72848416/231203038-55a19554-a567-4bf7-96ae-e6c1b455ee78.png">
 
-###Clustered STL10 dataset in 3d
-<img width="500" alt="Screenshot 2023-04-11 at 8 24 33 PM" src="https://user-images.githubusercontent.com/72848416/231203267-1e28e30a-d374-4c3c-88c7-535512111b96.jpeg">
+
 In addition to these results, the project was also successful in clustering 31,000 images from the Tibet museum dataset using the ConvNeXtXLarge CNN architecture with the BIRCH clustering algorithm. 
 **This model achieved an accuracy of  98.3%% on the STL10 dataset, which beats the state-of-the-art model described in the paper with code for the STL10 dataset.**
 https://paperswithcode.com/sota/image-clustering-on-stl-10
+
+
+<img width="400" alt="Screenshot 2023-04-11 at 8 24 33 PM" src="https://user-images.githubusercontent.com/72848416/231203267-1e28e30a-d374-4c3c-88c7-535512111b96.jpeg">
 
 ## Conclusion
 Overall, our project demonstrated that combining CNN architectures with clustering algorithms can lead to efficient and accurate image clustering. Further exploration and optimization of these methods could have practical applications in image recommendation based on image feature and image dataset cleaning 
